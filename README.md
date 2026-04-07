@@ -58,7 +58,7 @@ Built an interactive dashboard that shows:
 - Jeddah has the highest number of orders among cities  
 
 
-## 💫 Key Features
+## 💫  Key Features
 - clean and organized dashboard layout  
 - easy-to-read charts and comparisons  
 - clear summary of key metrics  

@@ -25,7 +25,6 @@ The dataset includes:
 - cost and sales-related information
 
 ---
-
 ## 👩🏻‍💻 Project Workflow
 
 ### 1. Data Cleaning (Python & Excel)
@@ -48,6 +47,7 @@ Built an interactive dashboard that shows:
 - monthly trends  
 - top cities by number of orders  
 
+Dashboard >>> https://github.com/Jana-i004/Data-Analysis-Sales-Dashboard/blob/main/DahsBoard01.pdf
 
 
 ## 💡 Dashboard Insights

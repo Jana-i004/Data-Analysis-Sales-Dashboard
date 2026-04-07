@@ -45,6 +45,7 @@ Built an interactive dashboard that shows:
 
 ## 💡 Dashboard Insights
 <img width="1467" height="1019" alt="Screenshot 1447-10-19 at 6 06 10 PM" src="https://github.com/user-attachments/assets/da1a9609-15b8-4a65-b161-b484706dcb87" />
+
 - Saudi Arabia has the highest total sales  
 - Tablet and Laptop are among the most ordered categories  
 - Orders are relatively stable across months with slight variation  

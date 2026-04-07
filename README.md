@@ -1,8 +1,8 @@
-# Data-Analysis-Sales-Dashboard
+# Data Analysis Sales Dashboard
 this project focuses on analyzing sales data and building an interactive dashboard to understand performance across countries, cities, products, and time.  The data was cleaned and processed using Python and Excel, then visualized using Power BI to generate clear and actionable insights.
 
 
-## Objective
+## 📌 Objective 
 The goal of this project is to:
 - clean and prepare raw sales data
 - analyze patterns in sales performance
@@ -10,13 +10,13 @@ The goal of this project is to:
 - present insights in a clear dashboard
  
 
-## Tools 
+## ⚡️ Tools 
 - Python (Pandas)
 - Excel
 - Power BI
 
 
-## Dataset
+## 📊 Dataset 
 The dataset includes:
 - order details
 - product categories
@@ -26,7 +26,7 @@ The dataset includes:
 
 ---
 
-## Project Workflow
+## 👩🏻‍💻 Project Workflow
 
 ### 1. Data Cleaning (Python & Excel)
 - removed missing and inconsistent values  
@@ -50,7 +50,7 @@ Built an interactive dashboard that shows:
 
 
 
-## Dashboard Insights
+## 💡 Dashboard Insights
 
 - Saudi Arabia has the highest total sales  
 - Tablet and Laptop are among the most ordered categories  
@@ -58,7 +58,7 @@ Built an interactive dashboard that shows:
 - Jeddah has the highest number of orders among cities  
 
 
-## Key Features
+## 💫 Key Features
 - clean and organized dashboard layout  
 - easy-to-read charts and comparisons  
 - clear summary of key metrics  

@@ -1,6 +1,6 @@
 # Data Analysis Sales Dashboard
 this project focuses on analyzing sales data and building an interactive dashboard to understand performance across countries, cities, products, and time.  The data was cleaned and processed using Python and Excel, then visualized using Power BI to generate clear and actionable insights.
-
+Dashboard >>> https://github.com/Jana-i004/Data-Analysis-Sales-Dashboard/blob/main/DahsBoard01.pdf
 
 ## 📌 Objective 
 The goal of this project is to:
@@ -47,7 +47,7 @@ Built an interactive dashboard that shows:
 - monthly trends  
 - top cities by number of orders  
 
-Dashboard >>> https://github.com/Jana-i004/Data-Analysis-Sales-Dashboard/blob/main/DahsBoard01.pdf
+
 
 
 ## 💡 Dashboard Insights
